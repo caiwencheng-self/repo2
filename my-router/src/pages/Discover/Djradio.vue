@@ -1,0 +1,10 @@
+<template>
+  <fieldset>
+    <legend>主播电台</legend>
+    <ul>
+      <li>天佑</li>
+      <li>药水哥</li>
+      <li>六道</li>
+    </ul>
+  </fieldset>
+</template>

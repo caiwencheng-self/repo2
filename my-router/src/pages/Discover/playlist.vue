@@ -1,0 +1,11 @@
+<template>
+  <fieldset>
+    <legend>歌单</legend>
+    <ul>
+      <li>惊雷</li>
+      <li>一人饮酒醉</li>
+      <li>掀起你的盖头来</li>
+      <li>窗外</li>
+    </ul>
+  </fieldset>
+</template>
